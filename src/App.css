@@ -1,0 +1,33 @@
+body {
+  background-color: #f8f9fa;
+}
+
+h1 {
+  color: #007bff;
+  font-size: 2.5rem;
+}
+
+input {
+  width: 100%;
+}
+
+.list-group-item {
+  transition: all 0.3s ease;
+}
+
+.list-group-item:hover {
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+button {
+  margin-left: 10px;
+}
+
+form input {
+  border-radius: 5px;
+  padding: 10px;
+}
+
+form button {
+  float: right;
+}
